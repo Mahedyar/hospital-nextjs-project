@@ -1,1 +1,1 @@
-# hospital-nextjs-project
+# Nextjs-practice
